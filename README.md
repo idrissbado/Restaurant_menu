@@ -10,5 +10,6 @@ For this assignment, I created a webpage for a fictional restaurant's menu, "Del
   - **Appetizers**
   - **Main Courses**
   - **Desserts**
-- **Contact Link:** A placeholder contact link is provided at the bottom of the page.
+- **Contact Link:** A placeholder contact link is provided at the bottom of the page. https://idrissbado.github.io/Restaurant_menu/
+  
 
